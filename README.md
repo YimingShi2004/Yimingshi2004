@@ -33,9 +33,11 @@
 
 ### 🌱 I’m currently learning
 
-* Zero‑copy **Arrow** pipelines in Rust
+* AI-driven **Spatial Genomics**
+* High-performance **Genomics-Bioinformatic (GenoBio)** Tools Development
 * Advanced **causal inference** in human genetics
 * GPU‑accelerated **differential expression** via RAPIDS
+* Zero‑copy **Arrow** pipelines in Rust
 
 <!-- 🤝 Connect with Me -->
 <p align="center">
