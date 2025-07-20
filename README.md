@@ -34,7 +34,7 @@
 ### 🌱 I’m currently learning
 
 * AI-driven **Spatial Genomics**
-* High-performance **Human Genomic-Bioinformatic (HGenoBio)** Tools Development
+* High-performance Human **Genomics–Bioinformatics (GenoBio)** Tools
 * Advanced **causal inference** in human genetics
 * GPU‑accelerated **differential expression** via RAPIDS
 * Zero‑copy **Arrow** pipelines in Rust
