@@ -37,13 +37,12 @@
 * Advanced **causal inference** in human genetics
 * GPU‑accelerated **differential expression** via RAPIDS
 
-### 🤝 Connect with Me
-
-<p>
-  <a href="yimingshiww@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<!-- 🤝 Connect with Me -->
+<p align="center">
+  <a href="mailto:yimingshiww@gmail.com">
+    <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
 </p>
-
-<div align="center">
 
 > 📖 “The most incomprehensible thing about nature is that it is comprehensible.” — A. Einstein
 
