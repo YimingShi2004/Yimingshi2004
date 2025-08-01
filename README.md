@@ -1,16 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yiming Shi（石一鸣）</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F79A00&center=true&vCenter=true&lines=Bioinformatician+%7C+AI4Omics+Developer;Statistical+Genetics+%26+Spatial+Multi‑omics;High‑Performance+Computing+Enthusiast" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
 ---
 
 ### 🚀 About Me
