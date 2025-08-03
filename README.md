@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yiming Shi（石一鸣）</h1>
 
 
-### 🚀 About Me
+### · About Me
 
-* 🔬 I’m passionate about **Statistical Genetics, Spatial Omics, and single‑cell RNA‑seq analysis**
-* 🛠️ Currently building **AI4Omics** — AI‑powered pipelines for multi‑omics data integration
-* 💻 Languages I love: `Python`, `Rust`, and `R`
-* ⚡ Fun fact: my clusters scale to **10,000+ cores** when crunching single‑cell atlases
+* · I’m passionate about **Statistical Genetics, Spatial Omics, and single‑cell RNA‑seq analysis**
+* · Currently building **AI4Omics** — AI‑powered pipelines for multi‑omics data integration
+* · Languages I love: `Python`, `Rust`, and `R`
+* · Fun fact: my clusters scale to **10,000+ cores** when crunching single‑cell atlases
 
-### 🧰 Tech Stack
+### · Tech Stack
 
 | Category          | Tools                                                     |
 | ----------------- | --------------------------------------------------------- |
