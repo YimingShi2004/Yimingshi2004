@@ -1,39 +1,33 @@
-<h1 align="center">Hi 👋, I'm Yiming Shi（石一鸣）</h1>
+<!--
+Setup: Replace every YOUR_GITHUB_USERNAME with your GitHub username.
+Save as README.md at the root of your public username/username repository.
+Upload the entire included assets/ folder alongside README.md.
+The images are served from your repository; no live badge API is required.
 
+Animated hand: Microsoft Fluent Emoji Animated (MIT).
+https://github.com/microsoft/fluentui-emoji-animated
+License: assets/LICENSE-Microsoft.txt
+The email badge is included locally as a high-resolution PNG.
+-->
 
-### · About Me
+<h1 align="center">
+  Hi there, I'm Yiming&nbsp;Shi (石一鸣)
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="./assets/waving-hand.png" width="36" height="36" alt="👋" /></a>
+</h1>
 
-*  I’m passionate about **Statistical Genetics, Spatial Omics, and single‑cell RNA‑seq analysis**
-*  Currently building **AI4Omics** — AI‑powered pipelines for multi‑omics data integration
-*  Languages I love: `Python`, `Rust`, and `R`
-*  Fun fact: my clusters scale to **10,000+ cores** when crunching single‑cell atlases
-
-### · Tech Stack
-
-| Category          | Tools                                                     |
-| ----------------- | --------------------------------------------------------- |
-| 💻 Programming    | Python, Rust, R, Bash                                     |
-| 📦 Data           | Pandas, Polars, Arrow, Apache Parquet                     |
-| 🧬 Bioinformatics | Scanpy, Seurat, AnnData, pySCENIC, Cell Ranger            |
-| 🗺️ Spatial       | Squidpy, Giotto, SpaGCN                                   |
-| ☁️ Cloud & HPC    | Slurm, Nextflow, Snakemake, Docker, Singularity, AWS, GCP |
-| 📈 Visualization  | Matplotlib, ggplot2, Plotly, Seaborn                      |
-
-### 🌱 I’m currently learning
-
-* AI-driven **Spatial Genomics**
-* High-performance Human **Genomics–Bioinformatics (GenoBio)** Tools
-* Advanced **causal inference** in human genetics
-* GPU‑accelerated **differential expression** via RAPIDS
-* Zero‑copy **Arrow** pipelines in Rust
-
-<!-- 🤝 Connect with Me -->
 <p align="center">
-  <a href="mailto:yimingshiww@gmail.com">
-    <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
-  </a>
+  <strong>Graduate Student in Genetics @ <a href="https://english.pku.edu.cn/">Peking&nbsp;University</a></strong>
+  <br />
+  Statistical&nbsp;Genetics · Computational&nbsp;Genomics · AI&nbsp;for&nbsp;Science
 </p>
 
-> 📖 “The most incomprehensible thing about nature is that it is comprehensible.” — A. Einstein
+<p align="center">
+  <a href="mailto:yimingshines@gmail.com"><img src="./assets/email-badge.png" width="306" height="28" alt="Email: yimingshines@gmail.com" /></a>
+</p>
 
-</div>
+<p align="center">
+  <br />
+  <em>“The most incomprehensible thing about nature is that it is comprehensible.”</em>
+  <br />
+  <sub>— A. Einstein</sub>
+</p>
